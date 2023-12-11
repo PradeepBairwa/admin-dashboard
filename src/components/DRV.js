@@ -10,7 +10,7 @@ function DRV(props) {
     }
   return (
     <React.Fragment>
-    <div style={{textAlign:'center'}}>
+    <div style={{textAlign:'center',paddingTop:'5%'}}>
       <h1>Wellcome to The DRV  </h1><br/>
       <div style={{height:'1px',background:'black',marginTop:'-15px',marginBottom:'15px',marginLeft:'10%',marginRight:'10%'}}></div>
       <div >

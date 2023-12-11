@@ -36,8 +36,8 @@ function UserMaintenance(props) {
   
   return (
     <React.Fragment>
-    <div style={{textAlign:'center'}}>
-      <h1>Welcome to UserMaintenance Tab</h1>
+    <div style={{textAlign:'right',marginRight:"50px",paddingTop:'5%'}}>
+      {/* <h1>Welcome to UserMaintenance Tab</h1> */}
         <Button color="primary" onClick={Add}>Add User</Button>{' '}
         <Button color="secondary">View</Button>{' '}
         <Button color="success">Edit</Button>{' '}

@@ -27,3 +27,19 @@
     margin-left:'1%'!important;
     color:'blue'!important;
 }
+.active {
+    /* Your styling for the active link goes here */
+    color: teal !important;
+    font-weight: bold;
+    /* style={{textDecoration: 'none',color:'Teal',fontSize:'18px'}} */
+    text-decoration: none;
+    font-size: 18px;
+    background-color: white;
+    background-size: contain;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-right: 5px;  
+  }
+  .navcolor{
+    color: teal !important;
+  }

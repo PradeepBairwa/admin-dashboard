@@ -146,7 +146,7 @@ function DCR() {
   });
   // console.log("Data : "+JSON.stringify(data));
   return (
-    <div style={{textAlign:'center'}}>
+    <div style={{textAlign:'center',paddingTop:'5%'}}>
       <h1>Wellcome to The DCR  </h1>
       <div className="App">
       <h3>DCR Requests</h3>
